@@ -1,0 +1,37 @@
+ body{
+    background-color: rgb(240, 236, 236);
+ }
+
+ #main-section{
+   background-color: white;
+   color: cadetblue;
+   border: 1px solid gray;
+   width: 450px;
+   height: 350px;
+   margin: 100px auto;
+   padding-left: 10px;
+   padding-right: 10px;
+   font-family: "Poppins", sans-serif;
+  }
+  #header-info{
+    text-align: center;
+    color: cadetblue;
+    font-family: "Roboto", sans-serif;
+
+  }
+  #text-info{
+    height: 20px;
+    width: 450px;
+    margin: 10px auto;
+  }
+  #button{
+   border-radius: 30px;
+   background-color: #4caf50;
+   height: 20px;
+   width: 450px;
+  }
+  #button.hover{
+    color: burlywood;
+    background-color: #4caf50;
+  }
+  
